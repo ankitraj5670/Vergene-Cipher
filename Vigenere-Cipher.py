@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[10]:
-
-
 import tkinter as tk
 from tkinter import messagebox, ttk
 import string
@@ -97,10 +91,3 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = VigenereCipherGUI(root)
     root.mainloop()
-
-
-# In[ ]:
-
-
-
-
